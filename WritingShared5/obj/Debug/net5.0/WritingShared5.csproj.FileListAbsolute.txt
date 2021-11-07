@@ -1,0 +1,15 @@
+/Users/foxjazz/github/WritingShared5/WritingShared5/obj/Debug/net5.0/WritingShared5.csproj.AssemblyReference.cache
+/Users/foxjazz/github/WritingShared5/WritingShared5/obj/Debug/net5.0/WritingShared5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foxjazz/github/WritingShared5/WritingShared5/obj/Debug/net5.0/WritingShared5.AssemblyInfoInputs.cache
+/Users/foxjazz/github/WritingShared5/WritingShared5/obj/Debug/net5.0/WritingShared5.AssemblyInfo.cs
+/Users/foxjazz/github/WritingShared5/WritingShared5/obj/Debug/net5.0/WritingShared5.csproj.CoreCompileInputs.cache
+/Users/foxjazz/github/WritingShared5/WritingShared5/bin/Debug/net5.0/WritingShared5.deps.json
+/Users/foxjazz/github/WritingShared5/WritingShared5/bin/Debug/net5.0/WritingShared5.runtimeconfig.json
+/Users/foxjazz/github/WritingShared5/WritingShared5/bin/Debug/net5.0/WritingShared5.runtimeconfig.dev.json
+/Users/foxjazz/github/WritingShared5/WritingShared5/bin/Debug/net5.0/WritingShared5.dll
+/Users/foxjazz/github/WritingShared5/WritingShared5/bin/Debug/net5.0/ref/WritingShared5.dll
+/Users/foxjazz/github/WritingShared5/WritingShared5/bin/Debug/net5.0/WritingShared5.pdb
+/Users/foxjazz/github/WritingShared5/WritingShared5/obj/Debug/net5.0/WritingShared5.dll
+/Users/foxjazz/github/WritingShared5/WritingShared5/obj/Debug/net5.0/ref/WritingShared5.dll
+/Users/foxjazz/github/WritingShared5/WritingShared5/obj/Debug/net5.0/WritingShared5.pdb
+/Users/foxjazz/github/WritingShared5/WritingShared5/obj/Debug/net5.0/WritingShared5.genruntimeconfig.cache
